@@ -1,7 +1,5 @@
 - 👋 Hi, I’m NareshGupta
-- 👀 I’m interested in WebApplication
-- 🌱 I’m currently learning SpringBoot as backend, js frameworks or Libraries as Frontend
-- 💞️ I’m looking to collaborate on JavaProject
+- 💞️ I’m looking to collaborate on SpringBoot or React Project 
 - 📫  reach me nareshgupta0899@gmail.com
 
 <!---

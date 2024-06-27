@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NareshGupta
 - 💞️ I’m looking to collaborate on SpringBoot or React Project
-- 💞️ currently learning express
+- 💞️ currently learning docker
 - 📫  reach me nareshgupta0899@gmail.com
 
 <!---

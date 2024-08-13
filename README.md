@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NareshGupta
-- 💞️ currently learning Machine Learning
+- 💞️ currently learning ML
 - 📫  reach me nareshgupta0899@gmail.com
 
 <!---

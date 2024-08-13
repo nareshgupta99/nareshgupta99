@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NareshGupta
-- 💞️ currently learning docker
+- 💞️ currently learning Machine Learning
 - 📫  reach me nareshgupta0899@gmail.com
 
 <!---

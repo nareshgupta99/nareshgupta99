@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EdTech Platform**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Spring Boot,Express.js,React**
 

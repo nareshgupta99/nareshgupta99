@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **EdTech Platform**
+- 🔭 I’m currently working on **Tourism Platform**
 
 - 🌱 I’m currently learning **Flutter**
 

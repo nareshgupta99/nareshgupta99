@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Tourism Platform**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Spring Boot,Express.js,React**
+- 💬 Ask me about **Spring Boot,Express.js,React,Flutter**
 
 - 📫 How to reach me **nareshgupta0899@gmail.com**
 
